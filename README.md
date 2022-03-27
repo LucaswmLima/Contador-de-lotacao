@@ -1,5 +1,5 @@
 <h1 align="center">
-    Contador de lotação.
+    Contador de lotação
 </h1>
 
 ## 💻 Sobre o projeto
