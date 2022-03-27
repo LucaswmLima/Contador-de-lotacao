@@ -1,5 +1,3 @@
-# contador_de_pessoas
- 
 <h1 align="center">
     Contador de lotação.
 </h1>
